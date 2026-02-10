@@ -20,7 +20,7 @@ A Python tool that extracts text from documents (.docx, .pdf, .txt) and generate
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/document-processor-ollama.git
+git clone https://github.com/jakers1776/document-processor-ollama.git
 cd document-processor-ollama
 ```
 
